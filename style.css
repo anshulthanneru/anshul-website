@@ -1,0 +1,18 @@
+#MyPicture {
+    border-width: 5;
+    border-color: green;
+    border-style: ridge;
+    margin-top: 50;
+}
+
+#Welcome {
+    height: 500;
+    width: 100%;
+    background: linear-gradient(green 35%, blue 65%);
+}
+
+#underline {
+    background-color: black;
+    height: 5px;
+    width: 300px;
+}
